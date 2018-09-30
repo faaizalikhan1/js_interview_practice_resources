@@ -14,6 +14,8 @@ Interview questions and sites to prctice from.
 - [Medium Article- How I applied lessons learned from a failed technical interview to get 5 job offers](https://medium.freecodecamp.org/how-i-applied-lessons-learned-from-a-failed-technical-interview-to-get-5-job-offers-656fcf58034d)
 - [David Shariff- Preparing for a Front-End Web Development Interview in 2017](http://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/)
 - [Front end dev interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) and [ Answers](https://github.com/yangshun/front-end-interview-handbook)
+
+- [Frontend Interview questions](https://blog.usejournal.com/cracking-the-frontend-coding-interview-ec7d5b1e6755)
  
 - [Tech Interview handbook](https://github.com/yangshun/tech-interview-handbook)
 - [JS interview questions](https://www.toptal.com/javascript/interview-questions)
